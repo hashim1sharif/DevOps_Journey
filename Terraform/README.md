@@ -17,7 +17,7 @@ Automates how servers, networks, and systems are created and connected — like 
 Automates how each server is set up and maintained — like tuning the instruments.
 (Example tools: Ansible, Puppet, Chef)
 
-![iamge alt](https://github.com/hashim1sharif/DevOps-Journey/blob/88e257d9a3a9f84906303913bd6cdbb3a34a9f97/Screenshot%202025-10-17%20152858.png)
+![iamge alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-17%20152858.png)
 
                 What is a Terraform State File?
 
@@ -33,7 +33,7 @@ Terraform = the tool that makes them the same.
 
 Terraform providers are like plugins or connectors that let Terraform talk to different platforms (like AWS, Azure, Google Cloud, or even GitHub, Docker, etc.).
 
-![image alt](https://github.com/hashim1sharif/DevOps-Journey/blob/404bf1996f94da7aaca5e143a63bd1df871cb8eb/Terraform/images/Screenshot%202025-10-17%20163602.png)
+![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-17%20163602.png)
 
                 Terraform init
 
@@ -51,7 +51,7 @@ Is the third key command in the Terraform workflow — it actually executes the 
 
 Is the final command in the Terraform lifecycle — it deletes all infrastructure that Terraform created.
 
-![image alt](https://github.com/hashim1sharif/DevOps-Journey/blob/947de0b01204a94e7c038b923267974a2eb5312c/Terraform/images/Screenshot%202025-10-11%20134132.png)
+![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-11%20134132.png)
 
                 Local Statefile
 
@@ -61,4 +61,4 @@ Terraform stores the state file (terraform.tfstate) on your local machine. It’
 
 Terraform stores the state file in a remote backend (like AWS S3, Azure Blob, or Terraform Cloud). This allows multiple users to share the same state, supports locking, provides better security and backups, and is ideal for team and production environments.
 
-![image alt](https://github.com/hashim1sharif/DevOps-Journey/blob/153fb3cf87d165bf8d812b499afb71031e1a6855/Terraform/images/Screenshot%202025-10-18%20135058.png)
+![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-18%20135058.png)
