@@ -63,7 +63,6 @@ Terraform stores the state file in a remote backend (like AWS S3, Azure Blob, or
 
 ![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-18%20135058.png)
 
-
                 What Is a Module in Terraform?
 
 A module is just a container (folder) that holds Terraform code — things like variables, resources, and outputs — so you can reuse and organize it easily.
@@ -76,9 +75,9 @@ It takes inputs, does something and gives you outputs.
 
                 What Makes a Good Terraform Module?
 
-Reusable
-Easy to understand
-Easy to configure
-Safe to use
+1.Reusable
+2.Easy to understand
+3.Easy to configure
+4.Safe to use
 
 ![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/cbbacdb2c86d3c083a41727de6de82ed21f355b3/Terraform/images/Screenshot%202025-10-13%20215724.png)
