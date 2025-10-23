@@ -73,3 +73,10 @@ Think of a module as a function in programming:
 It takes inputs, does something and gives you outputs.
 
 ![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/07efc67527505be3b967d7c2afb992d778a4a01c/Terraform/images/Screenshot%202025-10-13%20215156.png)
+
+                What Makes a Good Terraform Module?
+
+Reusable
+Easy to understand
+Easy to configure
+Safe to use
