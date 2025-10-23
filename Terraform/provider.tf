@@ -5,10 +5,13 @@ terraform {
       version = "6.17.0"
     }
   }
+   backend "s3" {
+     bucket = "terraform--remote"
+     key    = "terraform.tfstate"
+     region = "eu-west-1"
+   }
 }
 
 provider "aws" {
-  # Configuration options
   region = "eu-west-1"
 }
-

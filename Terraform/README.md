@@ -62,3 +62,12 @@ Terraform stores the state file (terraform.tfstate) on your local machine. It’
 Terraform stores the state file in a remote backend (like AWS S3, Azure Blob, or Terraform Cloud). This allows multiple users to share the same state, supports locking, provides better security and backups, and is ideal for team and production environments.
 
 ![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/7fedc453b2e9d5f7cf35b23d6654377a3e57efc5/Terraform/images/Screenshot%202025-10-18%20135058.png)
+
+
+                What Is a Module in Terraform?
+
+A module is just a container (folder) that holds Terraform code — things like variables, resources, and outputs — so you can reuse and organize it easily.
+
+Think of a module as a function in programming:
+
+It takes inputs, does something and gives you outputs.
