@@ -80,3 +80,5 @@ Reusable
 Easy to understand
 Easy to configure
 Safe to use
+
+![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/cbbacdb2c86d3c083a41727de6de82ed21f355b3/Terraform/images/Screenshot%202025-10-13%20215724.png)
