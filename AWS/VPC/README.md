@@ -3,7 +3,8 @@
 A Virtual Private Cloud (VPC) is a logically isolated section of the AWS cloud where you can launch and manage your AWS resources like EC2 instances, databases, and load balancers inside your own private network.
 It’s like having your own custom data center inside AWS, but fully virtual and configurable.
 
-The IP address range in AWS — often called a CIDR block (Classless Inter Domain Routing) defines which private IP addresses your resources (like EC2 instances) can use inside your VPC.
+The IP address range in AWS — often called a CIDR block (Classless Inter Domain Routing) defines which private IP
+ addresses your resources (like EC2 instances) can use inside your VPC.
 
 An IP address range is a block of IP addresses that you assign to your VPC when you create it.
 
