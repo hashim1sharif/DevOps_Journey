@@ -2,6 +2,7 @@
 
 This architecture demonstrates a highly available, scalable, and secure infrastructure setup across multiple Availability Zones (AZs) using core AWS services.
 
+![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/2615984baada0d3715b84db33b02e1725fed663d/AWS/VPC/AWS-VPC-Project/Images/vpc-example-private-subnets.png)
 
 
 Architecture Overview
