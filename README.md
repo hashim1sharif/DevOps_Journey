@@ -110,14 +110,10 @@ devops-learning/
 - Stay Organised: Keep your notes and labs organized in their respective module folders.
 - Commit Often: Make regular commits to ensure you are tracking your progress effectively.
 
-- Share Your Progress: Create LinkedIn posts about your journey and share your repository link. Don’t forget to tag @CoderCo!
-
-- Ask for Help: If you get stuck, don't hesitate to reach out to the community or your mentors
 
 ## License
 
 This repository is licensed under the MIT License. Feel free to use it as a template for your learning journey.
 
-## Contact
-For any questions or support, reach out to CoderCo or ask in our discussion forums.
+
 # DevOps_Journey
