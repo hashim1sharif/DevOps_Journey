@@ -1,12 +1,15 @@
 name: CI
-on: [push]
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # same indentation as 'push'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-      - name: we are testing this workflow
+        uses: actions/checkout@v4   # optional: use latest version
+      - name: We are testing this workflow
         run: echo "Hello, World!"
-       
