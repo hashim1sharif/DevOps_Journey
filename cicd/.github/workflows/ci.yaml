@@ -1,13 +1,12 @@
-name: CI workflow
+name: CI
 on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout code
+      - name: Checkout code
         uses: actions/checkout@v2
       - name: we are testing this workflow
-        run: echo "Hello, hashim!"
-
-    
+        run: echo "Hello, World!"
+       
