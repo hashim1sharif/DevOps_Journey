@@ -45,7 +45,7 @@ I am particularly interested in system reliability, infrastructure automation, a
 
 My long-term goal is to design and deploy production-grade cloud infrastructure that follows best practices for security, scalability, and automation.
 
-The architecture below represents my end goal — a fully automated, high-availability AWS environment built with Terraform, integrated with GitHub Actions for continuous delivery, and monitored through CloudWatch.
+The architecture below represents my end goal a fully automated, high-availability AWS environment built with Terraform, integrated with GitHub Actions for continuous delivery, and monitored through CloudWatch.
 
 ![alt imag](https://github.com/hashim1sharif/DevOps_Journey/blob/397fce47e8c0d8aeddac7fad14ddbbdeee2f64fb/images/image.png)
 
