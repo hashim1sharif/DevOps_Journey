@@ -1,0 +1,11 @@
+This line contains Victory!
+This line contains Victory!
+Random line 3 in Arena_Boss/file3.txt
+Random line 4 in Arena_Boss/file3.txt
+Random line 5 in Arena_Boss/file3.txt
+Random line 6 in Arena_Boss/file3.txt
+This line contains Victory!
+This line contains Victory!
+Random line 9 in Arena_Boss/file3.txt
+Random line 10 in Arena_Boss/file3.txt
+Random line 11 in Arena_Boss/file3.txt
