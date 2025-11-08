@@ -42,4 +42,5 @@ docker ps
 
 ![alt image](https://github.com/hashim1sharif/DevOps_Journey/blob/6f9adb61575be78d5f8521823dda6e560690ebcf/Projects/docker-nginx-app/images/Screenshot%202025-11-08%20120208.png)
 
+
 ![alt image](https://github.com/hashim1sharif/DevOps_Journey/blob/6f9adb61575be78d5f8521823dda6e560690ebcf/Projects/docker-nginx-app/images/Screenshot%202025-11-08%20120232.png)
