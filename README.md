@@ -1,6 +1,6 @@
 # DevOps Journey 
 
-This repository documents my learning path toward becoming a DevOps Engineer.  
+This repository documents my learning path toward becoming a DevOps Engineer.
 It includes hands-on projects and technical notes covering topics such as cloud infrastructure, automation, Linux administration, networking, and continuous integration.
 
 My objective is to develop the skills required to design and maintain reliable, automated, and scalable infrastructure systems.  
@@ -27,8 +27,8 @@ I am particularly interested in system reliability, infrastructure automation, a
 
 ## Technical Skills
 
-**Operating Systems:** Linux (Ubuntu, Red Hat–based)  
-**Languages / Scripting:** Bash, Python  
+**Operating Systems:** Linux  
+**Languages / Scripting:** Bash  
 **Tools & Platforms:** Docker, Terraform, AWS CLI, GitHub Actions  
 **Core Concepts:** Networking, CI/CD, Infrastructure as Code, Cloud Automation  
 
@@ -41,7 +41,28 @@ I am particularly interested in system reliability, infrastructure automation, a
 - Improve observability skills using monitoring and logging tools  
 
 
-### Final Note
+## Long-Term Vision
+
+My long-term goal is to design and deploy production-grade cloud infrastructure that follows best practices for security, scalability, and automation.
+
+The architecture below represents my end goal — a fully automated, high-availability AWS environment built with Terraform, integrated with GitHub Actions for continuous delivery, and monitored through CloudWatch.
+
+![alt imag](https://github.com/hashim1sharif/DevOps_Journey/blob/397fce47e8c0d8aeddac7fad14ddbbdeee2f64fb/images/image.png)
+
+## This architecture showcases:
+
+A multi-AZ VPC with public and private subnets
+
+Load balancing and auto-scaling for ECS services
+
+Secure data persistence using RDS PostgreSQL and ElastiCache Redis
+
+Automated deployment pipelines using GitHub Actions
+
+Infrastructure provisioning and management with Terraform
+
+
+## Final Note
 
 This repository serves as both a record of my technical learning and a demonstration of my ability to apply DevOps principles in practical scenarios.  
 I continuously update it as I complete new projects and explore advanced DevOps technologies.  
