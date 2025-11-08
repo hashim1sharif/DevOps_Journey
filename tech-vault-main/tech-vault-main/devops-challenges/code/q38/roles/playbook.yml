@@ -1,8 +1,0 @@
----
-- hosts: jumphost
-  roles:
-    - jumphost
-
-- hosts: production
-  roles:
-    - production_servers

@@ -1,7 +1,0 @@
----
-- name: Backup router configurations
-  hosts: routers
-  tasks:
-    - name: Backup config
-      ios_config:
-        backup: yes
