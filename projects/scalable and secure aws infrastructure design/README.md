@@ -1,4 +1,4 @@
-                High Availability Web Application Architecture on AWS
+## High Availability Web Application Architecture on AWS
 
 Overview
 
@@ -8,7 +8,7 @@ The infrastructure is designed to ensure fault tolerance, load balancing, and au
 ![image alt](https://github.com/hashim1sharif/DevOps_Journey/blob/1d2f053bc1538d53ae947e1dd1f4ac47560ac063/AWS/Challenge/Images/vpc-example-private-subnets.png)
 
 
-                Architecture Components
+## Architecture Components
 
 1. Region
 
@@ -48,7 +48,7 @@ Act as virtual firewalls to control inbound and outbound traffic for each compon
 Used for connecting to Amazon S3, which stores static content (images, backups, etc.) or supports data exchange.
 
 
-                How It Works
+## How It Works
 
 Users send requests through the Application Load Balancer (ALB).
 
@@ -63,7 +63,7 @@ Data and static files can be stored or retrieved from Amazon S3.
 If one Availability Zone becomes unavailable, the second AZ continues to handle requests — ensuring high availability.
 
 
-                Security Considerations
+## Security Considerations
 
 Security Groups restrict access to only necessary ports (e.g., HTTP/HTTPS).
 
@@ -71,7 +71,7 @@ Private subnets prevent direct public internet access to backend servers.
 
 IAM Roles & Policies control permissions for services and users.
 
-                Features
+## Features
 
 Multi-AZ High Availability
 Auto Scaling for Dynamic Load Management
@@ -80,7 +80,7 @@ Secure Networking with VPC and Subnets
 Integration with S3 for Storage
 
 
-                Technologies Used
+## Technologies Used
 
 AWS EC2
 
